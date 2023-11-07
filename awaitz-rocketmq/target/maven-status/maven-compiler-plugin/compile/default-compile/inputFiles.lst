@@ -1,0 +1,15 @@
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/producer/BaseTransactionProducerHandler.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/start/AwaitzTransactionProducer.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/producer/AbstractAwaitzOrderProducer.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/start/AwaitzOrderConsumer.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/producer/AbstractAwaitzCommonProducer.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/start/AwaitzOrderProducer.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/start/AwaitzCommonProducer.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/config/EnableAutoMqConfiguration.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/producer/ProducerMessage.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/consumer/BaseConsumerHandler.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/producer/AwaitzProducer.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/start/AwaitzCommonConsumer.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/consumer/BaseOrderConsumerHandler.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/config/MqConfig.java
+/Users/zhz/Desktop/awaitz-base/awaitz-rocketmq/src/main/java/com/awaitz/base/rocketmq/consumer/TestHandler.java
